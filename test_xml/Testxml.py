@@ -22,5 +22,6 @@ for eachEmp in employees:
     print(emp_id, nickname.firstChild.data, salary.firstChild.data)
     
     
+print("Additional Print to show completion")
     
     
